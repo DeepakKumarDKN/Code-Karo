@@ -52,5 +52,6 @@
     font-size: 1.8rem;
     font-family: "Google Sans Display", Arial, Helvetica, sans-serif;
     font-weight: 600;
-    color:rgb(4, 161, 233)
+    color:rgb(4, 161, 233);
+    cursor: pointer;
 }

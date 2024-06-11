@@ -38,6 +38,7 @@
     border: none;
     border-radius: 30px;
     font-family:'Segoe UI';
-    font-family: Poppins
+    font-family: Poppins;
+    cursor: pointer;
     
 }
