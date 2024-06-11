@@ -23,22 +23,30 @@
     font-size: 1rem;
 }
 .login-container{
-    width: 80%;
+    width: 350px;
     margin-bottom: 2rem;
-    margin: 0 auto;
+    margin: 0 auto 2rem auto;
+    position: relative;
 }
-.login-container p{
+.login-container input{
  border: 1px solid rgb(216, 211, 211);
  padding: 1.1rem;
  font-family: "Google Sans Display", Arial, Helvetica, sans-serif;
  border-radius: 10px;
  margin-bottom: 1rem;
+ width:100%;
+ font-size: 1rem;
  
 }
 
-.login-container span{
-    margin-left: 8rem;
-    color:rgb(220, 222, 223)
+
+.login-container p{
+    font-size: 1rem;
+    color:rgb(174, 178, 182);
+    font-family: "Google Sans Display", Arial, Helvetica, sans-serif;
+    position: absolute;
+    right:10px;
+    bottom: 35px
 }
 .btn{
   padding: 1rem 40px;
