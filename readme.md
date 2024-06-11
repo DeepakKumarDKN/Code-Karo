@@ -1,4 +1,4 @@
-## Css Bootcamp Assignments([Code Karo](https://codekaro.in/)):wave:
+## Css Bootcamp Assignments([Code Karo](https://codekaro.in/)) :wave:
 ### Day-One Asignments
 
 Column A | Column B | 
