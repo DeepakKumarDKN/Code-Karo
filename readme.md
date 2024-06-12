@@ -1,5 +1,5 @@
 ## Css Bootcamp Assignments([Code Karo](https://codekaro.in/)) :wave:
-### Day-One Asignments
+### Day-One Assignments
 
 Column A | Column B | 
 ---------|----------|
@@ -8,7 +8,7 @@ Column A | Column B |
  Project Three | [Live Link](https://majestic-praline-d868ff.netlify.app/)|
  Project Four | [Live Link](https://dazzling-narwhal-651761.netlify.app/)|
 
- ### Day-Two Asignments
+ ### Day-Two Assignments
 
 Column A | Column B | 
 ---------|----------|
