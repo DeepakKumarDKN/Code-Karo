@@ -9,7 +9,8 @@
     max-width: 500px;
     margin: 50px auto;
     box-shadow: 1px 1px 10px 5px rgb(96, 94, 94);
-    height: 350px
+    height: 350px;
+    border-radius: 20px 20px 0px 0px
 }
 .image-container{
     position: relative
@@ -19,6 +20,7 @@
     object-fit: cover;
     object-position: center;
     height: 160px;
+    border-radius: 20px 20px 0px 0px;
 }
 
 .profile-image{

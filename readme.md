@@ -1,5 +1,5 @@
 ## Css Bootcamp Assignments([Code Karo](https://codekaro.in/)) :wave:
-### Day-One Assignments
+* ### Day-One Assignments
 
 Column A | Column B | 
 ---------|----------|
